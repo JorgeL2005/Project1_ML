@@ -1,0 +1,11 @@
+# La base de datos
+train.h5
+test.h5
+
+# Archivos de dependencias
+node_modules/
+venv/
+__pycache__/
+
+# Archivos de entorno
+.env
