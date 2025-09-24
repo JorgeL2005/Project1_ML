@@ -1,5 +1,6 @@
-pyts
+tsfresh
 scikit-learn 
 h5py 
 matplotlib 
 numpy
+pandas
