@@ -10,5 +10,3 @@ __pycache__/
 # Archivos de entorno
 .env
 
-# Excluir específicamente la carpeta de features
-features_chunks/
