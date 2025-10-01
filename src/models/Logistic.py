@@ -1,1 +1,0 @@
-# Modelo Logístico (Laura)
